@@ -1,0 +1,18 @@
+Configuration: Windows 7, port COM3 , ATmega 328
+
+
+http://arduino.ua/ru/guide/Libraries - manual of setup libraries arduino
+
+
+TIME & TEMPARATURE LIBRARY
+
+http://knodit.blogspot.com/2014/05/arduino-ds3231.html - link ob tutorial
+
+put files from DS3231_TEST to C:\Users\admin\Documents\Arduino\libraries\time_temper
+
+as
+
+C:\Users\admin\Documents\Arduino\libraries\time_temper\DS3231.cpp
+C:\Users\admin\Documents\Arduino\libraries\time_temper\DS3231.h
+
+and use
