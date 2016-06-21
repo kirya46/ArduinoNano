@@ -46,7 +46,7 @@ Simple example: http://zelectro.cc/relayModule
 Full example: https://www.aqa.ru/forum/ARDUINO-dlya-avtomatizatsii-akvariuma-268157-page1
 
 
-ISSUES on Linux:
+ВОЗМОЖНЫЕ ERROR on Linux:
 
 1)DE error - avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
 
